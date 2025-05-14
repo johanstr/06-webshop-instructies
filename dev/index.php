@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 $db_host = '127.0.0.1';
 $db_name = '2324_wittekip';
 $db_user = 'root';
